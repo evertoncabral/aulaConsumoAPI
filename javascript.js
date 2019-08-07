@@ -43,6 +43,7 @@ btnNoticia.onclick = ()=>{
     })
 
 
+    
 }
 
 
